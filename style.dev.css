@@ -326,8 +326,8 @@ img.wp-smiley{
 #menu-primary{
     position:relative;
     width:980px;
-    height:43px;
-    margin:-80px auto 37px auto
+    height:38px;
+    margin:-80px auto 42px auto
 }
 #menu-primary ul{
     float:right
@@ -373,7 +373,7 @@ img.wp-smiley{
 /** Breadrumbs*/
 /***************************************/
 .breadcrumbs{
-    margin:8px auto 25px auto;
+    margin:0px auto 25px auto;
     padding:6px 0;
     font-size:13px;
     line-height:13px;
