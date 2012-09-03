@@ -178,7 +178,7 @@ function uridimmu_embed_defaults( $args ) {
 }
 
 /**
- * Load specific font stylesheets need by the theme.
+ * Load specific font stylesheets needed by the theme.
  *
  * @since 0.1.0
  */

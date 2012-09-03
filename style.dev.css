@@ -284,7 +284,7 @@ img.wp-smiley{
 #header{
     overflow:hidden;
     width:100%;
-    height:60px;
+    height:70px;
     padding:20px 0;
     border-bottom:10px solid #61ADA3
 }
@@ -301,7 +301,7 @@ img.wp-smiley{
 #site-title{
     position:relative;
     z-index:99;
-    margin:0 0 5px 0;
+    margin:5px 0 5px 0;
     letter-spacing:1px;
     font:normal normal normal 36px/36px Museo500Regular,Georgia,Times,'Times New Roman',serif
 }
@@ -326,8 +326,8 @@ img.wp-smiley{
 #menu-primary{
     position:relative;
     width:980px;
-    height:38px;
-    margin:-75px auto 37px auto
+    height:43px;
+    margin:-80px auto 37px auto
 }
 #menu-primary ul{
     float:right
