@@ -53,7 +53,7 @@ get_header(); // Loads the header.php template. ?>
 
 					<?php get_sidebar( 'after-singular' ); // Loads the sidebar-after-singular.php template. ?>
 
-					<?php do_atomic( 'after_singular' ); // retro-fitted_after_singular ?>
+					<?php do_atomic( 'after_singular' ); // uridimmu_after_singular ?>
 
 					<?php comments_template( '/comments.php', true ); // Loads the comments.php template. ?>
 
@@ -63,7 +63,7 @@ get_header(); // Loads the header.php template. ?>
 
 		</div><!-- .hfeed -->
 
-		<?php do_atomic( 'close_content' ); // retro-fitted_close_content ?>
+		<?php do_atomic( 'close_content' ); // uridimmu_close_content ?>
 
 		<?php get_sidebar( 'after-content' ); // Loads the sidebar-after-content.php template. ?>
 
@@ -71,6 +71,6 @@ get_header(); // Loads the header.php template. ?>
 
 	</div><!-- #content -->
 
-	<?php do_atomic( 'after_content' ); // retro-fitted_after_content ?>
+	<?php do_atomic( 'after_content' ); // uridimmu_after_content ?>
 
 <?php get_footer(); // Loads the footer.php template. ?>
