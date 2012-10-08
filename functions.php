@@ -20,7 +20,7 @@
  *
  * @package Uridimmu
  * @subpackage Functions
- * @version 0.1.0
+ * @version 0.1.2
  * @author Thiago Senna <thiago@thremes.com.br>
  * @copyright Copyright (c) 2011 - 2012, Thiago Senna
  * @link http://thremes.com.br/themes/uridimmu
