@@ -184,11 +184,8 @@ function uridimmu_embed_defaults( $args ) {
  */
 function uridimmu_load_font_styles() {
 
-    wp_register_style( 'museo_300', get_template_directory_uri() . '/fonts/museo_300_macroman/stylesheet.css' );
-    wp_enqueue_style( 'museo_300' );
-
-    wp_register_style( 'museo_500', get_template_directory_uri() . '/fonts/museo_500_macroman/stylesheet.css' );
-    wp_enqueue_style( 'museo_500' );
+	wp_register_style( 'cabin', 'http://fonts.googleapis.com/css?family=Cabin:400,500' );
+    	wp_enqueue_style( 'cabin' );
 }
 
 /**
