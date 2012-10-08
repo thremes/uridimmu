@@ -31,8 +31,8 @@ a:hover{
 /* Headers */
 h1, h2, h3, h4, h5, h6{
     color:#61ADA3;
-    font-weight:normal;
-    font-family:Museo500Regular,Georgia,Times,'Times New Roman',serif
+	font-family:Cabin,Georgia,Times,'Times New Roman',serif;
+	font-weight: 500;
 }
 h2{
     font-size:24px
@@ -77,7 +77,7 @@ blockquote{
     overflow:hidden;
     margin:0 0 25px 0;
     padding:25px 25px 0 25px;
-    font:normal normal normal 18px/28px Museo300Regular, Arial,Verdana,sans-serif;
+	font:normal normal normal 18px/28px Cabin, Arial,Verdana,sans-serif;
     background:transparent url(images/quotes.png) no-repeat 15px 15px;
 }
 blockquote a{
@@ -105,11 +105,11 @@ table{
     background:#fff
 }
 table caption{
-    font:normal normal normal 13px/25px Museo300Regular, Arial,Verdana,sans-serif;
+	font:normal normal normal 13px/25px Cabin, Arial,Verdana,sans-serif;
     color:#61ADA3
 }
 table th{
-    font:normal normal bold 13px/25px Museo500Regular, Arial,Verdana,sans-serif;
+	font:normal normal bold 13px/25px Cabin,Arial,Verdana,sans-serif;
     padding:4px 2%;
     color:#61ADA3;
     background:#FFF;
@@ -303,7 +303,8 @@ img.wp-smiley{
     z-index:99;
     margin:5px 0 5px 0;
     letter-spacing:1px;
-    font:normal normal normal 36px/36px Museo500Regular,Georgia,Times,'Times New Roman',serif
+	font:normal normal normal 36px/36px Cabin,Georgia,Times,'Times New Roman',serif;
+    	font-weight: 500;
 }
 #site-title a,
 #site-title a:hover{
@@ -416,7 +417,8 @@ img.wp-smiley{
 
 /* Post title */
 .entry-title{
-    font:normal normal normal 22px/22px Museo500Regular,Georgia,Times,'Times New Roman',serif;
+	font:normal normal normal 22px/22px Cabin,Georgia,Times,'Times New Roman',serif;
+    	font-weight: 500;
     margin:0 0 5px 0
 }
 .singular .entry-title,
@@ -530,7 +532,8 @@ img.wp-smiley{
 /* Loop title */
 .loop-title{
     margin-bottom:20px;
-    font:normal normal bold 20px/25px Museo500Regular,Georgia,Times,'Times New Roman',serif
+	font:normal normal bold 20px/25px Cabin,Georgia,Times,'Times New Roman',serif;
+    	font-weight: 500;
 }
 
 /* Loop description */
@@ -990,7 +993,8 @@ a.comment-reply-link:hover{
     margin:0 auto;
 }
 #footer .wrap a{
-    font-family:Museo300Regular;
+	font-family:Cabin;
+    	font-weight: 400;
 }
 
 /* Copyright and credit sections */
