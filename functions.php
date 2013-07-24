@@ -20,9 +20,9 @@
  *
  * @package Uridimmu
  * @subpackage Functions
- * @version 0.1.2
+ * @version 0.2.0
  * @author Thiago Senna <thiago@thremes.com.br>
- * @copyright Copyright (c) 2011 - 2012, Thiago Senna
+ * @copyright Copyright (c) 2011 - 2013, Thiago Senna
  * @link http://thremes.com.br/themes/uridimmu
  * @license http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
  */
